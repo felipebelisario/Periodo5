@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1321a611-7146-4a2c-98a1-d2e1f5c5ddea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Pyl7yUm6SOA0ZZ94lMI2pQyXSU" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UIMPoints">
+    <configuration name="UIFreeCell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="freecell.view.UIFreeCell" />
+      <module name="FreeCell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="freecell.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UIMPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mpointsgame.view.UIMPoints" />
+      <module name="FreeCell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mpointsgame.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tpointsgame.view.UITPoints" />
+      <module name="FreeCell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tpointsgame.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UIMPoints" />
+        <item itemvalue="Application.UITPoints" />
+        <item itemvalue="Application.UIFreeCell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1321a611-7146-4a2c-98a1-d2e1f5c5ddea" name="Default Changelist" comment="" />
+      <created>1566854053783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566854053783</updated>
+    </task>
+    <servers />
+  </component>
+</project>

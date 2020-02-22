@@ -1,0 +1,26 @@
+#container1{
+    margin-left: 300px;
+}
+
+.navfont{
+    font-size: 30px;
+}
+
+body{
+    background-color: #406BD6 !important;
+}
+
+#cabecalho{
+    background-color: blue !important;
+    height: 100px;
+}
+
+#bar{
+    background-color: black !important;
+    height: 8px;
+}
+
+#image{
+    margin-top: -150px;
+    margin-left: 35px;
+}

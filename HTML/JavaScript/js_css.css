@@ -1,0 +1,180 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Modular\ Amplitude.otf);
+}
+
+@font-face {
+    font-family: myFirstFont2;
+    src: url(DS-DIGIB.TTF);
+}
+
+body{
+    background-color: #696969 !important;
+    width: 100% !important;
+}
+
+.btn-general{
+    background-color: black !important;
+    border-radius: 12px !important;
+    width: 5% !important;
+    height: 10% !important;
+
+    font-family: myFirstFont;
+    font-size: 200% !important;
+    color: white !important;
+
+    border: 4px solid white !important;
+    box-shadow: none !important;
+
+    position: absolute !important;
+    
+}
+
+.btn-general:hover{
+    background-color: white !important;
+    border: 200px black !important;
+    border: 4px solid black !important;
+    color: black !important;
+    
+}
+
+
+#opclear{
+    left: 33%;
+    top: 23%;
+}
+
+#opdiv{
+    left: 60%;
+    top: 23%;
+}
+
+#nmb7{
+    left: 33%;
+    top: 41%; 
+}
+
+#nmb8{
+    left: 42%;
+    top: 41%; 
+}
+
+#nmb9{
+    left: 51%;
+    top: 41%; 
+}
+
+#opmult{
+    left: 60%;
+    top: 41%;
+    
+    font-size: 190% !important;
+}
+
+#nmb4{
+    left: 33%;
+    top: 59%; 
+}
+
+#nmb5{
+    left: 42%;
+    top: 59%; 
+}
+
+#nmb6{
+    left: 51%;
+    top: 59%; 
+}
+
+#opsub{
+    left: 60%;
+    top: 59%;
+}
+
+#nmb1{
+    left: 33%;
+    top: 77%; 
+}
+
+#nmb2{
+    left: 42%;
+    top: 77%; 
+}
+
+#nmb3{
+    left: 51%;
+    top: 77%; 
+}
+
+#opsum{
+    left: 60%;
+    top: 77%; 
+}
+
+
+#posneg{
+    left: 33%;
+    top: 95%;
+
+    font-size: 200% !important;
+}
+
+#nmb0{
+    left: 42%;
+    top: 95%; 
+}
+
+#virgula{
+    left: 51%;
+    top: 95%;
+}
+
+#opequal{
+    left: 60%;
+    top: 95%;
+}
+
+.op{ 
+    color: yellow !important;
+}
+
+
+#square1{
+    background-color: black !important;
+    height: 107%;
+    width: 37.5%;
+    top: 3%;
+    left: 31%;
+    border-radius: 10%;
+    border: 4px ridge rgb(255, 255, 107);
+
+    position: absolute !important;
+}
+
+#square2{
+
+    position: absolute !important;
+
+    background-color: gray !important;
+    top: 7.5%;
+    left: 32.5%;
+    width: 34%;
+    height: 12%;
+    border-radius: 6%;
+}
+
+#panel{
+
+    position: fixed;
+    color: cornsilk;     
+
+    width: 35%;
+    overflow: auto;
+    top: 7.5%;
+    
+    right: 34% !important;
+    text-align: right !important;
+    font-family: myFirstFont2;
+    font-size: 380%;
+}
+

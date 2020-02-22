@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Tue Sep 10 15:15:02 BRT 2019:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instância a816c00e-016d-1c62-d51e-000007507b08
+no diretório de banco de dados C:\Users\felip\Desktop\UFU\Periodo 5\POO2\LAB 03\Agenda_DB\agendaJDBC 
+
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.2+10
+user.dir=C:\Users\felip\Desktop\UFU\Periodo 5\POO2\LAB 03\Agenda_DB
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 10 15:15:18 BRT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Sep 10 15:15:18 BRT 2019:
+Encerrando a instância a816c00e-016d-1c62-d51e-000007507b08
+----------------------------------------------------------------

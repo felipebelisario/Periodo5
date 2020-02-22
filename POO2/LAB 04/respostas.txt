@@ -1,0 +1,60 @@
+﻿Respostas:
+
+Programa Fig20_04-05:
+
+- Execução 1:
+
+Creating threads
+Threads created, starting tasks.
+Tasks started, main ends.
+
+task1 going to sleep for 695 milliseconds.
+task3 going to sleep for 828 milliseconds.
+task2 going to sleep for 1692 milliseconds.
+task1 done sleeping
+task3 done sleeping
+task2 done sleeping
+
+Process finished with exit code 0
+
+- Execução 2:
+
+Creating threads
+Threads created, starting tasks.
+Tasks started, main ends.
+
+task1 going to sleep for 2787 milliseconds.
+task3 going to sleep for 1775 milliseconds.
+task2 going to sleep for 2220 milliseconds.
+task3 done sleeping
+task2 done sleeping
+task1 done sleeping
+
+Process finished with exit code 0
+
+- Execução 3:
+
+Creating threads
+Threads created, starting tasks.
+Tasks started, main ends.
+
+task2 going to sleep for 2677 milliseconds.
+task3 going to sleep for 175 milliseconds.
+task1 going to sleep for 3336 milliseconds.
+task3 done sleeping
+task2 done sleeping
+task1 done sleeping
+
+Process finished with exit code 0
+
+-- Explicação: Na execução do programa são criadas 3 threads de execução em que cada uma delas é colocada para "dormir"
+por um certo período de tempo gerado aleatoriamente pela função generator.nextInt (no intevalo de 0 a 5 segundos), e podemos
+perceber que elas não dormem na mesma ordem em que foram criadas, já que, devido ao fato de estarem executando em paralelo,
+essa ordem depende individualmente de cada thread.
+
+-- Com alteração do sleepTime: Alterando o valor do range em que a função que gera números aleatórios pode chegar faz com que
+surja a possibilidade das threads dormirem por mais tempo a cada vez que aumentamos o range, e com isso demora mais para cada uma
+finalizar sua execução.
+para cada uma ser encerrada.
+
+

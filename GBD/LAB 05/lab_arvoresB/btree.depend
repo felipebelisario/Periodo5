@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1571942757 source:c:\users\hb\desktop\aula14-codigoarvoreb\arvoreb\main.cpp
+	<stdlib.h>
+	<time.h>
+	"btree.cpp"
+
+1270661244 c:\users\hb\desktop\aula14-codigoarvoreb\arvoreb\btree.cpp
+	"btree.h"
+	<sys/types.h>
+	<sys/stat.h>
+
+1571940782 c:\users\hb\desktop\aula14-codigoarvoreb\arvoreb\btree.h
+	<stdio.h>
+
+1571942927 source:c:\users\hb\desktop\lab_arvoresb\main.cpp
+	<stdlib.h>
+	<time.h>
+	"btree.cpp"
+
+1571943806 c:\users\hb\desktop\lab_arvoresb\btree.cpp
+	"btree.h"
+	<sys/types.h>
+	<sys/stat.h>
+
+1571943733 c:\users\hb\desktop\lab_arvoresb\btree.h
+	<stdio.h>
+
